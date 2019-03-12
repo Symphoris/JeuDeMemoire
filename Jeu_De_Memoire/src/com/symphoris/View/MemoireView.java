@@ -19,7 +19,7 @@ public class MemoireView extends JFrame {
 	
 	public MemoireView() {
 		super("MemoireView");
-		this.setSize(400,200);
+		this.setSize(300,300);
 		this.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		this.setLocationRelativeTo(null);
 		
