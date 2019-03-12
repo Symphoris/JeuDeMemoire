@@ -53,7 +53,7 @@ public class MemoireController implements ActionListener {
 		if(e.getSource()==view.getB1()) {
 			
 			model.mot();
-			 t = new Timer(1000,act );
+			 t = new Timer(500,act );
 			t.start();
 		}
 		else {
