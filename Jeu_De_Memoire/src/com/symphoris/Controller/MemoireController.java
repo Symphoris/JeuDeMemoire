@@ -42,6 +42,7 @@ public class MemoireController implements ActionListener {
 					view.getJl().setText("");
 					view.getJt().setEditable(true);
 					t.stop();
+					System.out.println("fin");
 				}
 				
 			}
